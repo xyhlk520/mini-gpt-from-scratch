@@ -11,3 +11,4 @@ class GPTConfig:
         self.n_embd = n_embd
         self.n_head = n_head
         self.n_layer = n_layer
+
